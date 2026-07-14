@@ -1,0 +1,6 @@
+{
+  "name": "تطبيق مدرسي - الأحياء: الجهاز العصبي",
+  "description": "مراجعة تفاعلية منظمة لمنهج الأحياء - الفصل الأول: الجهاز العصبي مع التقييم الذاتي وحفظ التقدم.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
